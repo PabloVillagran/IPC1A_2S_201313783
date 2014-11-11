@@ -1,0 +1,6 @@
+Caso #1:  5
+Caso #2:  test a is this
+Caso #3:  foobar
+Caso #4:  base your all
+Caso #5:  class
+Caso #6:  along pony
