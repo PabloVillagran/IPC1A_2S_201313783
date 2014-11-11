@@ -1,4 +1,3 @@
-
 IPC1
 seccion A
 Segundo semestre
